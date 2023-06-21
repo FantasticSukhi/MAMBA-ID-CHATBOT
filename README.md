@@ -1,9 +1,3 @@
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
-
-<!--
-**FantasticSukhi/FantasticSukhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <p align="center">
 <b>★ MAMBA ID CHATBOT ★</b>
 </p>
