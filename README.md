@@ -4,10 +4,6 @@
 
 <p>
 
-
-<p align="center">
-  <img src="https://graph.org/file/33f3c64764afa143d7243.jpg">
-</p>
   ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
